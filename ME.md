@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @salik-develops
+- 👀 I’m interested in ethical hacking and cyber forensics
+- 🌱 I’m currently learning basics of tech.
+- 📫 How to reach me - encrypted.line@protonmail.com
