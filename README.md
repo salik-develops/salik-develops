@@ -5,5 +5,5 @@ Hi there 👋
 - 🤔 I’m looking for help with my learning.
 - 💬 Ask me about nothing but my day.
 - 📫 How to reach me: encrypted.line@protonmail.com
-- 😄 Pronouns: whitetose
+- 😄 Pronouns: whiterose
 - ⚡ Fun fact: No fun only sadness ft. Beluga
