@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**salik-develops/salik-develops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Hi there 👋
 - 🔭 I’m currently working on building my knowledge.
 - 🌱 I’m currently learning basics of tech
 - 👯 I’m looking to collaborate github
@@ -13,4 +7,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: encrypted.line@protonmail.com
 - 😄 Pronouns: whitetose
 - ⚡ Fun fact: No fun only sadness ft. Beluga
--->
